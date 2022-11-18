@@ -1,0 +1,17 @@
+.padre{
+    
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-image: url("imagenes/fondo1.jpg");
+}
+
+
+.primer{
+    width: auto;
+    display: flex;
+    height: 15vh;
+    align-items: center;
+    background-color: brown;
+    
+}
